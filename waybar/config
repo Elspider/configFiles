@@ -39,9 +39,9 @@
     "clock": {
         "interval": 10,
         "locale": "C", 
-        "format": "{:%d/%m/%Y %H:%M %p}",
-        "format-alt": " {:%a,%b %d} " // Icon: calendar-alt
-    },
+        "format": "{:%d/%m/%Y %H:%M %p}",
+	"on-click": "gnome-calendar"    
+},
 
     "cpu": {
         "interval": 10,
